@@ -1,36 +1,19 @@
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 
-namespace API_Gateway
-{
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+// Thêm file cấu hình Ocelot.json (Bắt buộc)
+builder.Configuration.AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
 
-            builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+// Đăng ký dịch vụ Ocelot
+builder.Services.AddOcelot();
 
-            var app = builder.Build();
+var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+app.UseRouting();
 
-            app.UseHttpsRedirection();
+// Kích hoạt Ocelot Middleware
+app.UseOcelot().Wait();
 
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-            app.Run();
-        }
-    }
-}
+app.Run();

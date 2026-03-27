@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    internal class HangLaptop
+    public class HangLaptop
     {
+        public string maHang {get; set;}
+        public string tenHang {get; set;}
+        public string quocGia {get; set;}
     }
 }
