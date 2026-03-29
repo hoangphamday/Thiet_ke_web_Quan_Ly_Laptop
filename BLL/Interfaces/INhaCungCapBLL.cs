@@ -1,4 +1,4 @@
-﻿using Models;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    internal interface INhaCungCapBLL
+    public interface INhaCungCapBLL
     {
         List<NhaCungCap> GetAll();
         NhaCungCap GetById(string id);
@@ -15,7 +15,7 @@ namespace BLL.Interfaces
         bool Update(NhaCungCap ncc);
         bool Delete(string id);
 
-        // Tìm nhanh NCC theo tên hoặc số điện thoại
+        // T�m nhanh NCC theo t�n ho?c s? di?n tho?i
         List<NhaCungCap> Search(string keyword);
     }
 }

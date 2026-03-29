@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj": {}
+    "d:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj": {}
   },
   "projects": {
-    "D:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj": {
+    "d:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj",
+        "projectUniqueName": "d:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj",
         "projectName": "API_Gateway",
-        "projectPath": "D:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj",
+        "projectPath": "d:\\CN WED\\Project_Backend\\API_Gateway\\API_Gateway.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CN WED\\Project_Backend\\API_Gateway\\obj\\",
+        "outputPath": "d:\\CN WED\\Project_Backend\\API_Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

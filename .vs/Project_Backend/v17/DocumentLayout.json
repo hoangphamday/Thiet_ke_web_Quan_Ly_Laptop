@@ -3,28 +3,136 @@
   "WorkspaceRootPath": "D:\\CN WED\\Project_Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\dtos\\laptopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\dtos\\laptopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\ilaptopbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ilaptopbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\laptopbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\laptopbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\giohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\giohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\donhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\donhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\danhgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\danhgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\idanhgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\idanhgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\services\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\phieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\phieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\giohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\giohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\danhgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\danhgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|d:\\cn wed\\project_backend\\api_khachhang\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|solutionrelative:api_khachhang\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|d:\\cn wed\\project_backend\\api_khachhang\\api_khachhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|solutionrelative:api_khachhang\\api_khachhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\phieunhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\phieunhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\laptopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\laptopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|d:\\cn wed\\project_backend\\api_khachhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|solutionrelative:api_khachhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3B9D3F-AD9F-4D14-B20F-129EC88325CE}|API_NhanVien\\API_NhanVien.csproj|d:\\cn wed\\project_backend\\api_nhanvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF3B9D3F-AD9F-4D14-B20F-129EC88325CE}|API_NhanVien\\API_NhanVien.csproj|solutionrelative:api_nhanvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|d:\\cn wed\\project_backend\\dal\\repositories\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|d:\\cn wed\\project_backend\\dal\\repositories\\giohangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\giohangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|d:\\cn wed\\project_backend\\dal\\repositories\\donhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\donhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E132BD-B896-48DE-AAC7-92D53D4C03CD}|API_Gateway\\API_Gateway.csproj|d:\\cn wed\\project_backend\\api_gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E132BD-B896-48DE-AAC7-92D53D4C03CD}|API_Gateway\\API_Gateway.csproj|solutionrelative:api_gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E132BD-B896-48DE-AAC7-92D53D4C03CD}|API_Gateway\\API_Gateway.csproj|d:\\cn wed\\project_backend\\api_gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4E132BD-B896-48DE-AAC7-92D53D4C03CD}|API_Gateway\\API_Gateway.csproj|solutionrelative:api_gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +143,8 @@
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|d:\\cn wed\\project_backend\\dal\\repositories\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\ilaptoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\services\\laptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\laptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\services\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\ilaptopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\itaikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\inhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\inhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\ilaptopbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ilaptopbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\ikhachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{3B733146-7320-40F6-8429-E07259DA06A9}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\interfaces\\idatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|d:\\cn wed\\project_backend\\bll\\interfaces\\igiohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0F3558-0E3C-4AFF-9853-1117A7E3041C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\igiohangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -113,14 +205,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,16 +231,8 @@
       "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|d:\\cn wed\\project_backend\\api_khachhang\\api_khachhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{29D40119-A3F5-4A81-9686-E030EECA1CDC}|API_KhachHang\\API_KhachHang.csproj|solutionrelative:api_khachhang\\api_khachhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|d:\\cn wed\\project_backend\\api_admin\\api_admin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CF7E5350-9A76-4D55-A556-85230E31711F}|API_Admin\\API_Admin.csproj|solutionrelative:api_admin\\api_admin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|d:\\cn wed\\project_backend\\models\\dtos\\laptopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6567D681-6C24-4168-A51C-238497BA15E5}|Models\\Models.csproj|solutionrelative:models\\dtos\\laptopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CN WED\\Project_Backend\\DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -207,32 +283,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PhieuNhapBLL.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\PhieuNhapBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\PhieuNhapBLL.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\PhieuNhapBLL.cs",
-              "RelativeToolTip": "BLL\\PhieuNhapBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DanhGiaBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\DanhGiaBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DanhGiaBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\DanhGiaBLL.cs",
+              "RelativeToolTip": "BLL\\DanhGiaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T08:06:14.456Z",
+              "WhenOpened": "2026-03-29T13:59:35.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TaiKhoanBLL.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\TaiKhoanBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\TaiKhoanBLL.cs",
-              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T07:42:38.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DonHangBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\DonHangBLL.cs",
               "RelativeDocumentMoniker": "BLL\\DonHangBLL.cs",
@@ -245,46 +308,402 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "giohangBLL.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\giohangBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\giohangBLL.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\giohangBLL.cs",
-              "RelativeToolTip": "BLL\\giohangBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T08:04:07.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LaptopBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\LaptopBLL.cs",
               "RelativeDocumentMoniker": "BLL\\LaptopBLL.cs",
               "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\LaptopBLL.cs",
               "RelativeToolTip": "BLL\\LaptopBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T08:05:40.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NhaCungCapBLL.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\NhaCungCapBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\NhaCungCapBLL.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\NhaCungCapBLL.cs",
-              "RelativeToolTip": "BLL\\NhaCungCapBLL.cs",
+              "DocumentIndex": 2,
+              "Title": "ILaptopBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\ILaptopBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ILaptopBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\ILaptopBLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ILaptopBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:14:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaptopDTO.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\DTOs\\LaptopDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\LaptopDTO.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\Models\\DTOs\\LaptopDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\LaptopDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T08:06:01.622Z",
+              "WhenOpened": "2026-03-27T07:01:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:53:33.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IDanhGiaBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\IDanhGiaBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IDanhGiaBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\IDanhGiaBLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IDanhGiaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:00:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhGia.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\DanhGia.cs",
+              "RelativeDocumentMoniker": "Models\\DanhGia.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\Models\\DanhGia.cs",
+              "RelativeToolTip": "Models\\DanhGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:54:54.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILaptopService.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Services\\ILaptopService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ILaptopService.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\Services\\ILaptopService.cs",
+              "RelativeToolTip": "BLL\\Services\\ILaptopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:22:33.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhieuNhapBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\PhieuNhapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PhieuNhapBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\PhieuNhapBLL.cs",
+              "RelativeToolTip": "BLL\\PhieuNhapBLL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:06:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "giohangBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\giohangBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\giohangBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\giohangBLL.cs",
+              "RelativeToolTip": "BLL\\giohangBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:04:07.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "danhGiaController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\danhGiaController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\danhGiaController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\danhGiaController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\danhGiaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:50:04.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gioHangController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_KhachHang\\Controllers\\gioHangController.cs",
+              "RelativeDocumentMoniker": "API_KhachHang\\Controllers\\gioHangController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_KhachHang\\Controllers\\gioHangController.cs",
+              "RelativeToolTip": "API_KhachHang\\Controllers\\gioHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:22:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "phieuNhapController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\phieuNhapController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\phieuNhapController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\phieuNhapController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\phieuNhapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:20:20.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T14:44:40.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "donHangController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\donHangController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\donHangController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\donHangController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\donHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:19:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "nhaCungCapController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\nhaCungCapController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\nhaCungCapController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\nhaCungCapController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\nhaCungCapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:19:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "khachHangController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\khachHangController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\khachHangController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\khachHangController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\khachHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:18:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "API_KhachHang.csproj",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
+              "RelativeDocumentMoniker": "API_KhachHang\\API_KhachHang.csproj",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
+              "RelativeToolTip": "API_KhachHang\\API_KhachHang.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T07:03:34.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "nhanVienController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\nhanVienController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\nhanVienController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\nhanVienController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\nhanVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:18:27.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LaptopController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\LaptopController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\LaptopController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\LaptopController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\LaptopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:17:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_KhachHang\\appsettings.json",
+              "RelativeDocumentMoniker": "API_KhachHang\\appsettings.json",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_KhachHang\\appsettings.json",
+              "RelativeToolTip": "API_KhachHang\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T13:17:22.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_NhanVien\\appsettings.json",
+              "RelativeDocumentMoniker": "API_NhanVien\\appsettings.json",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_NhanVien\\appsettings.json",
+              "RelativeToolTip": "API_NhanVien\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T13:16:59.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Admin\\appsettings.json",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\appsettings.json",
+              "RelativeToolTip": "API_Admin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T13:13:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GioHangRepository.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\GioHangRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\GioHangRepository.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\GioHangRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\GioHangRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:46:05.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DonHangRepository.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\DonHangRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\DonHangRepository.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\DonHangRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\DonHangRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:45:39.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "API_Gateway\\Program.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Gateway\\Program.cs",
+              "RelativeToolTip": "API_Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:45:14.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "taiKhoanController.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\taiKhoanController.cs",
+              "RelativeDocumentMoniker": "API_Admin\\Controllers\\taiKhoanController.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Controllers\\taiKhoanController.cs",
+              "RelativeToolTip": "API_Admin\\Controllers\\taiKhoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:44:27.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILaptopRepository.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\ILaptopRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ILaptopRepository.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\ILaptopRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ILaptopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:12:58.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "API_Gateway\\ocelot.json",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Gateway\\ocelot.json",
+              "RelativeToolTip": "API_Gateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T09:45:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Admin\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\API_Admin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Admin\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T09:41:37.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:42:38.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NhaCungCapBLL.cs",
+              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\NhaCungCapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhaCungCapBLL.cs",
+              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\NhaCungCapBLL.cs",
+              "RelativeToolTip": "BLL\\NhaCungCapBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T08:06:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "NhanVienBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\NhanVienBLL.cs",
               "RelativeDocumentMoniker": "BLL\\NhanVienBLL.cs",
@@ -292,12 +711,11 @@
               "RelativeToolTip": "BLL\\NhanVienBLL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T08:05:05.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T08:05:05.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 34,
               "Title": "KhachHangBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\KhachHangBLL.cs",
               "RelativeDocumentMoniker": "BLL\\KhachHangBLL.cs",
@@ -305,25 +723,11 @@
               "RelativeToolTip": "BLL\\KhachHangBLL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T08:04:51.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T08:04:51.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ILaptopRepository.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\ILaptopRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\ILaptopRepository.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\ILaptopRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\ILaptopRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T07:12:58.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "IPhieuNhapBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\IPhieuNhapBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\IPhieuNhapBLL.cs",
@@ -335,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 39,
               "Title": "INhaCungCapBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\INhaCungCapBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\INhaCungCapBLL.cs",
@@ -347,31 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ILaptopBLL.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\ILaptopBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\ILaptopBLL.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\ILaptopBLL.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\ILaptopBLL.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T07:14:33.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ILaptopService.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Services\\ILaptopService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ILaptopService.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\Services\\ILaptopService.cs",
-              "RelativeToolTip": "BLL\\Services\\ILaptopService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T08:22:33.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 35,
               "Title": "LaptopService.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Services\\LaptopService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\LaptopService.cs",
@@ -383,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 40,
               "Title": "IKhachHangBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\IKhachHangBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\IKhachHangBLL.cs",
@@ -395,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "INhanVienBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\INhanVienBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\INhanVienBLL.cs",
@@ -407,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "ITaiKhoanBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\ITaiKhoanBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\ITaiKhoanBLL.cs",
@@ -419,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 41,
               "Title": "IDonHangBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\IDonHangBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\IDonHangBLL.cs",
@@ -431,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 42,
               "Title": "CollectionHelper.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Helper\\CollectionHelper.cs",
               "RelativeDocumentMoniker": "DAL\\Helper\\CollectionHelper.cs",
@@ -443,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 43,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Helper\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "DAL\\Helper\\DatabaseHelper.cs",
@@ -455,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 44,
               "Title": "AppSetting.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Helper\\AppSetting.cs",
               "RelativeDocumentMoniker": "DAL\\Helper\\AppSetting.cs",
@@ -467,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 45,
               "Title": "IDatabaseHelper.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Helper\\interfaces\\IDatabaseHelper.cs",
               "RelativeDocumentMoniker": "DAL\\Helper\\interfaces\\IDatabaseHelper.cs",
@@ -479,19 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BLL.csproj",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-26T14:44:40.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 46,
               "Title": "IgioHangBLL.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Interfaces\\IgioHangBLL.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\IgioHangBLL.cs",
@@ -503,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 47,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\NhanVien.cs",
               "RelativeDocumentMoniker": "Models\\NhanVien.cs",
@@ -515,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 48,
               "Title": "DonHang.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\DonHang.cs",
               "RelativeDocumentMoniker": "Models\\DonHang.cs",
@@ -527,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 49,
               "Title": "ChiTietPhieuNhap.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\ChiTietPhieuNhap.cs",
               "RelativeDocumentMoniker": "Models\\ChiTietPhieuNhap.cs",
@@ -539,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 50,
               "Title": "ChiTietDonHang.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\ChiTietDonHang.cs",
               "RelativeDocumentMoniker": "Models\\ChiTietDonHang.cs",
@@ -551,31 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAIA/wBQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T06:53:33.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DanhGia.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\DanhGia.cs",
-              "RelativeDocumentMoniker": "Models\\DanhGia.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\Models\\DanhGia.cs",
-              "RelativeToolTip": "Models\\DanhGia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T14:54:54.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 51,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\KhachHang.cs",
               "RelativeDocumentMoniker": "Models\\KhachHang.cs",
@@ -587,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 52,
               "Title": "NhaCungCap.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\NhaCungCap.cs",
               "RelativeDocumentMoniker": "Models\\NhaCungCap.cs",
@@ -599,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 53,
               "Title": "PhieuNhap.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\PhieuNhap.cs",
               "RelativeDocumentMoniker": "Models\\PhieuNhap.cs",
@@ -611,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 54,
               "Title": "LaptopRepository.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Repositories\\LaptopRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\LaptopRepository.cs",
@@ -623,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 56,
               "Title": "Models.csproj",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\Models.csproj",
               "RelativeDocumentMoniker": "Models\\Models.csproj",
@@ -631,23 +975,12 @@
               "RelativeToolTip": "Models\\Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-27T07:03:47.752Z"
+              "WhenOpened": "2026-03-27T07:03:47.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "API_KhachHang.csproj",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
-              "RelativeDocumentMoniker": "API_KhachHang\\API_KhachHang.csproj",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
-              "RelativeToolTip": "API_KhachHang\\API_KhachHang.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-27T07:03:34.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 57,
               "Title": "API_Admin.csproj",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\API_Admin\\API_Admin.csproj",
               "RelativeDocumentMoniker": "API_Admin\\API_Admin.csproj",
@@ -655,23 +988,12 @@
               "RelativeToolTip": "API_Admin\\API_Admin.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-27T07:02:52.247Z"
+              "WhenOpened": "2026-03-27T07:02:52.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "LaptopDTO.cs",
-              "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\DTOs\\LaptopDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\LaptopDTO.cs",
-              "ToolTip": "D:\\CN WED\\Project_Backend\\Models\\DTOs\\LaptopDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\LaptopDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T07:01:19.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 55,
               "Title": "DAL.csproj",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -679,11 +1001,12 @@
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-26T14:27:53.714Z"
+              "WhenOpened": "2026-03-26T14:27:53.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 60,
               "Title": "ChiTietGioHang.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\ChiTietGioHang.cs",
               "RelativeDocumentMoniker": "Models\\ChiTietGioHang.cs",
@@ -695,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 61,
               "Title": "GioHang.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\GioHang.cs",
               "RelativeDocumentMoniker": "Models\\GioHang.cs",
@@ -707,7 +1030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 62,
               "Title": "HinhAnhLaptop.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\HinhAnhLaptop.cs",
               "RelativeDocumentMoniker": "Models\\HinhAnhLaptop.cs",
@@ -719,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 63,
               "Title": "Laptop.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\Laptop.cs",
               "RelativeDocumentMoniker": "Models\\Laptop.cs",
@@ -731,7 +1054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 64,
               "Title": "HangLaptop.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\HangLaptop.cs",
               "RelativeDocumentMoniker": "Models\\HangLaptop.cs",
@@ -743,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 65,
               "Title": "TaiKhoan.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\Models\\TaiKhoan.cs",
               "RelativeDocumentMoniker": "Models\\TaiKhoan.cs",
@@ -755,7 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 58,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -766,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 59,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\CN WED\\Project_Backend\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj": {}
+    "d:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj": {}
   },
   "projects": {
-    "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj": {
+    "d:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
+        "projectUniqueName": "d:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
         "projectName": "API_KhachHang",
-        "projectPath": "D:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
+        "projectPath": "d:\\CN WED\\Project_Backend\\API_KhachHang\\API_KhachHang.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CN WED\\Project_Backend\\API_KhachHang\\obj\\",
+        "outputPath": "d:\\CN WED\\Project_Backend\\API_KhachHang\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj"
+              "d:\\CN WED\\Project_Backend\\BLL\\BLL.csproj": {
+                "projectPath": "d:\\CN WED\\Project_Backend\\BLL\\BLL.csproj"
               },
-              "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj"
+              "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj": {
+                "projectPath": "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj"
               },
-              "D:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
-                "projectPath": "D:\\CN WED\\Project_Backend\\Models\\Models.csproj"
+              "d:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
+                "projectPath": "d:\\CN WED\\Project_Backend\\Models\\Models.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj": {
+    "d:\\CN WED\\Project_Backend\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
+        "projectUniqueName": "d:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
+        "projectPath": "d:\\CN WED\\Project_Backend\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CN WED\\Project_Backend\\BLL\\obj\\",
+        "outputPath": "d:\\CN WED\\Project_Backend\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,11 +109,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj"
+              "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj": {
+                "projectPath": "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj"
               },
-              "D:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
-                "projectPath": "D:\\CN WED\\Project_Backend\\Models\\Models.csproj"
+              "d:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
+                "projectPath": "d:\\CN WED\\Project_Backend\\Models\\Models.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj": {
+    "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj",
+        "projectUniqueName": "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\CN WED\\Project_Backend\\DAL\\DAL.csproj",
+        "projectPath": "d:\\CN WED\\Project_Backend\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CN WED\\Project_Backend\\DAL\\obj\\",
+        "outputPath": "d:\\CN WED\\Project_Backend\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -177,8 +177,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
-                "projectPath": "D:\\CN WED\\Project_Backend\\Models\\Models.csproj"
+              "d:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
+                "projectPath": "d:\\CN WED\\Project_Backend\\Models\\Models.csproj"
               }
             }
           }
@@ -223,14 +223,14 @@
         }
       }
     },
-    "D:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
+    "d:\\CN WED\\Project_Backend\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CN WED\\Project_Backend\\Models\\Models.csproj",
+        "projectUniqueName": "d:\\CN WED\\Project_Backend\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\CN WED\\Project_Backend\\Models\\Models.csproj",
+        "projectPath": "d:\\CN WED\\Project_Backend\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CN WED\\Project_Backend\\Models\\obj\\",
+        "outputPath": "d:\\CN WED\\Project_Backend\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,4 @@
-﻿using Models;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,18 +7,18 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    internal interface IPhieuNhapBLL
+    public interface IPhieuNhapBLL
     {
         List<PhieuNhap> GetAll();
         PhieuNhap GetById(string id);
         List<ChiTietPhieuNhap> GetDetails(string maPhieuNhap);
 
-        // Nghiệp vụ quan trọng: 
-        // 1. Lưu PhieuNhap 
-        // 2. Lưu danh sách ChiTietPhieuNhap 
-        // 3. Gọi LaptopDAL để CỘNG THÊM số lượng vào kho
+        // Nghi?p v? quan tr?ng: 
+        // 1. Luu PhieuNhap 
+        // 2. Luu danh s�ch ChiTietPhieuNhap 
+        // 3. G?i LaptopDAL d? C?NG TH�M s? lu?ng v�o kho
         bool CreateImportTicket(PhieuNhap phieu, List<ChiTietPhieuNhap> details);
 
-        bool Delete(string id); // Thường là hủy phiếu và trừ lại kho
+        bool Delete(string id); // Thu?ng l� h?y phi?u v� tr? l?i kho
     }
 }

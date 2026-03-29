@@ -1,4 +1,4 @@
-﻿using Microsoft.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +13,7 @@ namespace DAL.Helper.interfaces
         public string StoreProcedureName { get; set; }
         public List<Object> StoreProcedureParams { get; set; }
     }
-    internal interface IDatabaseHelper
+    public interface IDatabaseHelper
     {
         void SetConnectionString(string connectionString);
         /// <summary>

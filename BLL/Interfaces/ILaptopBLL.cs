@@ -1,4 +1,4 @@
-Ôªøusing Models;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    internal interface ILaptopBLL
+    public interface ILaptopBLL
     {
-        // Laptop & H√¨nh ·∫£nh
+        // Laptop & HÏnh ?nh
         List<Laptop> GetAll();
         Laptop GetById(string id);
         bool Create(Laptop model, List<HinhAnhLaptop> images);
         bool Update(Laptop model, List<HinhAnhLaptop> images);
         bool Delete(string id);
 
-        // H√£ng Laptop
+        // H„ng Laptop
         List<HangLaptop> GetAllBrands();
 
-        // ƒê√°nh gi√°
+        // –·nh gi·
         List<DanhGia> GetReviews(string maLaptop);
         bool AddReview(DanhGia review);
     }

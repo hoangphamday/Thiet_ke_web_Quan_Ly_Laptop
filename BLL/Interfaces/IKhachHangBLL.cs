@@ -1,4 +1,4 @@
-﻿using Models;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    internal interface IKhachHangBLL
+    public interface IKhachHangBLL
     {
         List<KhachHang> GetAll();
         KhachHang GetById(string id);

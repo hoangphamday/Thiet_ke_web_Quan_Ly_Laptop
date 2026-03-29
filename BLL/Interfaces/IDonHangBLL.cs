@@ -1,4 +1,4 @@
-﻿using Models;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    internal interface IDonHangBLL
+    public interface IDonHangBLL
     {
         List<DonHang> GetAll();
         DonHang GetById(string id);
-        // Lấy chi tiết của một đơn hàng cụ thể
+        // L?y chi ti?t c?a m?t don h�ng c? th?
         List<ChiTietDonHang> GetDetails(string maDonHang);
 
-        // Nghiệp vụ quan trọng nhất: Lưu đơn + Lưu chi tiết + Trừ số lượng tồn kho Laptop
+        // Nghi?p v? quan tr?ng nh?t: Luu don + Luu chi ti?t + Tr? s? lu?ng t?n kho Laptop
         bool PlaceOrder(DonHang order, List<ChiTietDonHang> details);
 
         bool UpdateStatus(string maDonHang, string trangThai);

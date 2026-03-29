@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ using DAL;
 
 namespace BLL.Interfaces
 {
-    internal interface ITaiKhoanBLL
+    public interface ITaiKhoanBLL
     {
         List<TaiKhoan> GetAll();
         TaiKhoan GetById(string id);

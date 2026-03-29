@@ -1,4 +1,4 @@
-﻿using Models;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    internal interface IgioHangBLL
+    public interface IgioHangBLL
     {
-        // Lấy giỏ hàng kèm danh sách sản phẩm bên trong
+        // L?y gi? h�ng k�m danh s�ch s?n ph?m b�n trong
         List<ChiTietGioHang> GetCartDetails(string maKH);
 
-        // Thêm/Sửa/Xóa sản phẩm trong giỏ
+        // Th�m/S?a/X�a s?n ph?m trong gi?
         bool AddToCart(string maKH, string maLaptop, int soLuong);
         bool UpdateQuantity(string maCTGH, int soLuong);
         bool RemoveFromCart(string maCTGH);

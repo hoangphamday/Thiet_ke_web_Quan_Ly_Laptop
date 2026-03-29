@@ -75,3 +75,4 @@ D:\CN WED\Project_Backend\API_KhachHang\obj\Debug\net8.0\refint\API_KhachHang.dl
 D:\CN WED\Project_Backend\API_KhachHang\obj\Debug\net8.0\API_KhachHang.pdb
 D:\CN WED\Project_Backend\API_KhachHang\obj\Debug\net8.0\API_KhachHang.genruntimeconfig.cache
 D:\CN WED\Project_Backend\API_KhachHang\obj\Debug\net8.0\ref\API_KhachHang.dll
+d:\CN WED\Project_Backend\API_KhachHang\bin\Debug\net8.0\Newtonsoft.Json.dll

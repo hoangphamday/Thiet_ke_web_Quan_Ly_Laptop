@@ -1,4 +1,4 @@
-﻿using DAL.Helper.interfaces;
+using DAL.Helper.interfaces;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Helper
 {
-    internal class DatabaseHelper : IDatabaseHelper
+    public class DatabaseHelper : IDatabaseHelper
     {
         //Connection String
         public string StrConnection { get; set; }
